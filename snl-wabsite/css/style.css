@@ -1,0 +1,14 @@
+body {
+    color: #191919;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+a, a:link {
+    text-decoration: none;
+    color: inherit;
+}
+.logo {
+    width:  154px;
+    height: 152px;
+    margin: 0 auto;
+}
