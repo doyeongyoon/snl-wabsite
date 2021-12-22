@@ -3,3 +3,4 @@
 ## 사용언어/기술
 *  html5
 *  css3
+[피그마 https://github.com/hyoseongyoon/snl-wabsite.git]
